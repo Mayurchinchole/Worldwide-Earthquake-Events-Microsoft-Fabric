@@ -114,5 +114,4 @@ This is a Power BI/Fabric connection endpoint, not a public GitHub repository UR
 - Create a Power BI report with event counts, magnitude trends, geographic distribution, and significance categories.
 
 ## Author
-
-Add your name, LinkedIn profile, and portfolio links here.
+Mayur Chinchole
